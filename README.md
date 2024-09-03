@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working on Android and Deployment<br>I'm looking to collaborate on IDK<br>I'm looking to help with "will tell you later"<br>I'm currently learning technologies around me<br>
+🚀 Currently exploring the world of Android development and mastering the art of Deployment.<br>
+🤝 Open to collaborating on exciting projects (surprises in store!).<br>
+🎯 Eager to lend a hand with something intriguing (details coming soon!).<br>
+🌱 On a continuous journey of learning and growth, diving into new technologies every day.<br>
 
 
 ## 🌐 Socials:
