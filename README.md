@@ -3,7 +3,7 @@ I'm currently working on Android and Deployment<br>I'm looking to collaborate on
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nikhil Singh) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-singh-nituk1298/)<br>
 [![LeetCode](https://img.shields.io/badge/LeetCode-%2300A7DA.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/niikhil12/)
 
 
