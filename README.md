@@ -1,7 +1,7 @@
 # 💫 About Me:
-🚀 Currently exploring the world of Android development and mastering the art of Deployment.<br>
-🤝 Open to collaborating on exciting projects (surprises in store!).<br>
-🎯 Eager to lend a hand with something intriguing (details coming soon!).<br>
+🚀 🍝 ➡️ 🍲 I turn spaghetti code into beautiful lasagna layers.<br>
+🧘 Debugging = my form of meditation<br>
+🪄 Good variable names 🛡 save future developers from chaos<br>
 🌱 On a continuous journey of learning and growth, diving into new technologies every day.<br>
 
 
