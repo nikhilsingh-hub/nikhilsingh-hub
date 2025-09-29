@@ -1,7 +1,4 @@
 # 💫 About Me:
-🚀 🍝 ➡️ 🍲 I turn spaghetti code into beautiful lasagna layers.<br>
-🧘 Debugging = my form of meditation<br>
-🪄 Good variable names 🛡 save future developers from chaos<br>
 🌱 On a continuous journey of learning and growth, diving into new technologies every day.<br>
 
 
