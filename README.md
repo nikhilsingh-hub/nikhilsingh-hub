@@ -14,7 +14,7 @@ I specialize in **Java, Spring Boot, Node.js, Redis/Valkey, Kafka, Elasticsearch
 
 ---
 
-## 🛠️ Tech Stack (Clean + Real)
+## 🛠️ Tech Stack
 
 ### **Languages**
 - Java  
